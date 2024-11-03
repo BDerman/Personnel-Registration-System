@@ -1,0 +1,28 @@
+C:\Users\Derman\Documents\Okul\Okul Bilgileri\Görsel Programlama\Ödevler\Ödev - 2\Ödev - 2\bin\Debug\net8.0-windows\Ödev - 2.exe
+C:\Users\Derman\Documents\Okul\Okul Bilgileri\Görsel Programlama\Ödevler\Ödev - 2\Ödev - 2\bin\Debug\net8.0-windows\Ödev - 2.deps.json
+C:\Users\Derman\Documents\Okul\Okul Bilgileri\Görsel Programlama\Ödevler\Ödev - 2\Ödev - 2\bin\Debug\net8.0-windows\Ödev - 2.runtimeconfig.json
+C:\Users\Derman\Documents\Okul\Okul Bilgileri\Görsel Programlama\Ödevler\Ödev - 2\Ödev - 2\bin\Debug\net8.0-windows\Ödev - 2.dll
+C:\Users\Derman\Documents\Okul\Okul Bilgileri\Görsel Programlama\Ödevler\Ödev - 2\Ödev - 2\bin\Debug\net8.0-windows\Ödev - 2.pdb
+C:\Users\Derman\Documents\Okul\Okul Bilgileri\Görsel Programlama\Ödevler\Ödev - 2\Ödev - 2\obj\Debug\net8.0-windows\Ödev - 2.csproj.GenerateResource.cache
+C:\Users\Derman\Documents\Okul\Okul Bilgileri\Görsel Programlama\Ödevler\Ödev - 2\Ödev - 2\obj\Debug\net8.0-windows\Ödev - 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Derman\Documents\Okul\Okul Bilgileri\Görsel Programlama\Ödevler\Ödev - 2\Ödev - 2\obj\Debug\net8.0-windows\Ödev - 2.AssemblyInfoInputs.cache
+C:\Users\Derman\Documents\Okul\Okul Bilgileri\Görsel Programlama\Ödevler\Ödev - 2\Ödev - 2\obj\Debug\net8.0-windows\Ödev - 2.AssemblyInfo.cs
+C:\Users\Derman\Documents\Okul\Okul Bilgileri\Görsel Programlama\Ödevler\Ödev - 2\Ödev - 2\obj\Debug\net8.0-windows\Ödev - 2.csproj.CoreCompileInputs.cache
+C:\Users\Derman\Documents\Okul\Okul Bilgileri\Görsel Programlama\Ödevler\Ödev - 2\Ödev - 2\obj\Debug\net8.0-windows\Ödev - 2.dll
+C:\Users\Derman\Documents\Okul\Okul Bilgileri\Görsel Programlama\Ödevler\Ödev - 2\Ödev - 2\obj\Debug\net8.0-windows\refint\Ödev - 2.dll
+C:\Users\Derman\Documents\Okul\Okul Bilgileri\Görsel Programlama\Ödevler\Ödev - 2\Ödev - 2\obj\Debug\net8.0-windows\Ödev - 2.pdb
+C:\Users\Derman\Documents\Okul\Okul Bilgileri\Görsel Programlama\Ödevler\Ödev - 2\Ödev - 2\obj\Debug\net8.0-windows\Ödev - 2.genruntimeconfig.cache
+C:\Users\Derman\Documents\Okul\Okul Bilgileri\Görsel Programlama\Ödevler\Ödev - 2\Ödev - 2\obj\Debug\net8.0-windows\ref\Ödev - 2.dll
+C:\Users\Derman\Documents\Okul\Okul Bilgileri\Görsel Programlama\Ödevler\Ödev - 2\Ödev - 2\obj\Debug\net8.0-windows\Ödev___2.Properties.Resources.resources
+C:\Users\Derman\Documents\Okul\Okul Bilgileri\Görsel Programlama\Ödevler\Ödev - 2\Ödev - 2\obj\Debug\net8.0-windows\Ödev___2.PersonelGirisSistemi.resources
+C:\Users\Derman\Documents\Okul\Okul Bilgileri\Görsel Programlama\Ödevler\Ödev - 2\Ödev - 2\obj\Debug\net8.0-windows\Ödev___2.PersonelKayitSistemi.resources
+C:\Users\Derman\Documents\Okul\Okul Bilgileri\Görsel Programlama\Ödevler\Ödev - 2\Ödev - 2\obj\Debug\net8.0-windows\Ödev___2.PersonelBilgiSistemi.resources
+C:\Users\Derman\Documents\Okul\Okul Bilgileri\Görsel Programlama\Ödevler\Ödev - 2\Ödev - 2\obj\Debug\net8.0-windows\Ödev___2.PersonelKayit.resources
+C:\Users\Derman\Documents\Okul\Okul Bilgileri\Görsel Programlama\Ödevler\Ödev - 2\Ödev - 2\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Derman\Documents\Okul\Okul Bilgileri\Görsel Programlama\Ödevler\Ödev - 2\Ödev - 2\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Derman\Documents\Okul\Okul Bilgileri\Görsel Programlama\Ödevler\Ödev - 2\Ödev - 2\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Derman\Documents\Okul\Okul Bilgileri\Görsel Programlama\Ödevler\Ödev - 2\Ödev - 2\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Derman\Documents\Okul\Okul Bilgileri\Görsel Programlama\Ödevler\Ödev - 2\Ödev - 2\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Derman\Documents\Okul\Okul Bilgileri\Görsel Programlama\Ödevler\Ödev - 2\Ödev - 2\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Derman\Documents\Okul\Okul Bilgileri\Görsel Programlama\Ödevler\Ödev - 2\Ödev - 2\obj\Debug\net8.0-windows\Ödev - 2.csproj.AssemblyReference.cache
+C:\Users\Derman\Documents\Okul\Okul Bilgileri\Görsel Programlama\Ödevler\Ödev - 2\Ödev - 2\obj\Debug\net8.0-windows\Ödev - 2.csproj.Up2Date
